@@ -7,16 +7,14 @@
     <link rel="stylesheet" href="styleGrid.css">
 </head>
 <body>
+<div class="content">
+    <h1>Accueil</h1>
     
-
 <?php
-include_once('entete.php');
-
-include_once('accueilcentre.php');
-include_once('footer.php');
-
 
 ?>
+</div>
+
 </body>
 
 </html>

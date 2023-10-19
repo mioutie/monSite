@@ -37,7 +37,10 @@
     echo "troisième : " .$a;
     echo "<br>";
     $a = $a / 4;
-    echo "quatrième : " .$a;
+    echo "quatrième : " , $a;
+    print("cinquième " .$a);
+    //print"cinquième" .$a;
+
 
     ?>
     

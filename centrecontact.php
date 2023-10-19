@@ -3,20 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ma page</title>
+    <title>Document</title>
     <link rel="stylesheet" href="styleGrid.css">
+  
 </head>
 <body>
+    <div class="content">
+    <h1>contact</h1>
+    <?php
+
+
+    ?>
     
 
-<?php
-include_once('entete.php');
-
-include_once('accueilcentre.php');
-include_once('footer.php');
-
-
-?>
+    </div>
+    
 </body>
-
 </html>
