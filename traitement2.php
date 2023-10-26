@@ -3,16 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ma page</title>
-    <link rel="stylesheet" href="styleGrid.css">
+    <title>Document</title>
+    
 </head>
 <body>
-<div class="content">
-    <h1>Accueil</h1>
-    
-    
-</div>
-
+    <?php
+   foreach($_POST as $name=>$value){
+    echo $name. "=".$value. "<br>";
+   }
+    ?>
 </body>
-
 </html>

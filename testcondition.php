@@ -86,7 +86,6 @@ echo "<br>";
 /*les condition ternaire sont des expressions dans lesquelles les conditions vraies et fausses sont écrites sur une même
 ligne.*/
 $c_postal = "75008";
-echo (substr($c_postal,0,2)=="75") ? "paris" : "province";
 
 
     ?>

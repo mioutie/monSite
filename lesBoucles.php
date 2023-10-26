@@ -90,7 +90,34 @@
     foreach($T as $mois =>$periode){
         echo $mois. "===>" .$periode. "<br>";
     }
-
+    
+    echo "<h2> Révisez votre table de multiplication </h2>";
+    //Debut du tableau
+    echo "<table border =\"2\" style=\"background-color:yellow\">
+    <tr>
+    <th>&nbsp; x &nbsp; </th>";
+    //créer une premiere ligne
+    for($i=1; $i<10;$i++){
+        echo "<th>&nbsp; $i&nbsp; </th>";
+    }
+    echo "</tr>";
+    //fin de la boucle
+    //création du corps de la table
+    //boucles de creation du contenu de la table
+    for($i=1;$i<10;$i++){
+        echo "<tr><th>&nbsp; $i&nbsp; </th>";
+        //remplissage de la table
+    for($j=1;$j<10;$j++){
+        echo "<td style=\"background-color:red;color:white\">&nbsp; &nbsp; <br>".$i*$j. "&nbsp; &nbsp; </td>";
+    }
+    echo "</b></tr>";
+    //fin de la boucle</td>;
+    }
+    echo "</table>";
+    for ($i=1;$i<7;$i++){
+        echo "<h$i>Mon titre H$i</h$i><br>";
+    }
+    
     ?>
     </div>
      <footer>&copy;DWMM 2023</footer>
