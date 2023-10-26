@@ -42,6 +42,8 @@
             <li><a class="dropdown-item" href="centreboucle.php">Boucle</a></li>
             <li><a class="dropdown-item" href="fonction.php">Function</a></li>
             <li><a class="dropdown-item" href="formulaire.php">Formulaire</a></li>
+            <li><a class="dropdown-item" href="form.php">Form</a></li>
+            <li><a class="dropdown-item" href="varconversiontype.php">ConvertionType</a></li>
           </ul>
           <li class="nav-item">
           <a class="nav-link" href="contact.php">Contact</a>

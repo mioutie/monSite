@@ -26,7 +26,7 @@
 </head>
 <body>
 <div>
-    <h4>Formulaire DWMM</h4>
+    <h4>Formulaire DWwM</h4>
     <form action= "traitement2.php"methode="POST">
         <fieldset>
             <legend>Identité</legend>
@@ -48,6 +48,9 @@
     
     
 </div>
+
+
+
 
 </body>
 
