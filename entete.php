@@ -44,6 +44,14 @@
             <li><a class="dropdown-item" href="formulaire.php">Formulaire</a></li>
             <li><a class="dropdown-item" href="form.php">Form</a></li>
             <li><a class="dropdown-item" href="varconversiontype.php">ConvertionType</a></li>
+            <li><a class="dropdown-item" href="centremysqli.php">Mysqli</a></li>
+            <li><a href="rechercher.php">recherche</a></li>
+            <li><a href="securite.php">Securite</a></li>
+            <li><a href="image.php">images</a></li>
+            <li><a href="imagesinus.php">images sinus</a></li>
+            <li><a href="imagetriangle.php">images triangle</a></li>
+            <li><a href="imagerectangle.php">images rectangle</a></li>
+            <li><a href="imagePolygone.php">images polygone</a></li>
           </ul>
           <li class="nav-item">
           <a class="nav-link" href="contact.php">Contact</a>
